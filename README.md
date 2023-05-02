@@ -7,7 +7,9 @@
 		<li>"#": Solid block</li>
 		<li>"_": Platform (with no bottom collision)</li>
 		<li>".": Empty</li>
-		<li>"*": Coin</li>
+		<li>"C": Coin</li>
+		<li>"G": Goal</li>
+		<li>"X": Spike</li>
 	</ul>
 	<p>The text file should have a fixed width and height. Each character should be separated by a space or a newline.</p>
 	<h2>Compiling and Using PlatE</h2>
