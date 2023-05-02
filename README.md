@@ -1,5 +1,6 @@
-  <h1>PlatE Game Engine</h1>
-	<p>PlatE is a game engine for creating platformer games. It is currently under the MIT license.</p>
+<h1>PlatE Game Engine</h1>
+<img src="Level_screenshot.png">
+<p>PlatE is a game engine for creating platformer games. It is currently under the MIT license.</p>
 	<h2>Creating Levels</h2>
 	<p>To create a level for PlatE, create a text file with the level design. The level should be a grid of characters, where each character represents a different object in the game. The following objects are currently supported:</p>
 	<ul>
