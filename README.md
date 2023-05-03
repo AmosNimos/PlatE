@@ -47,5 +47,6 @@
 		<li>Moving enemies</li>
 		<li>Moving platforms</li>
 		<li>Power-ups</li>
+		<li>GUI with score</li>
 	</ul>
 
