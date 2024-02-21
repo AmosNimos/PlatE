@@ -1,10 +1,11 @@
 <h1>PlatE Game Engine</h1>
-<div style="display: flex;">
-  <img src="Level_screenshot.png" style="height: 300px;">
-  <img src="game_screenshot.png" style="height: 300px;">
-</div>
 
-<a href="https://www.youtube.com/watch?v=JVbw02MKlgA">Last update: May 04, 2023</a>
+## Project state:
+
+<a href="https://www.youtube.com/watch?v=JVbw02MKlgA"><img src="https://s3.amazonaws.com/content.newsok.com/newsok/images/mobile/play_button.png"></br>Last update: May 04, 2023</a>
+</br>
+
+🔧 🚧🚧🚧 In development 🚧🚧🚧 👷
 
 <p>PlatE is a game engine for creating platformer games.</p>
 <p>Disclaimer: PlatE was created on Linux (Ubuntu) and is expected to be used on a Linux distro (ideally a Debian based distro), and is not expected to work on other OS by default.</p>
@@ -20,6 +21,10 @@
 		<li>"X": Spike</li>
 	</ul>
 	<p>The text file should have a fixed width and height of 20 by 15 characters. You can create a copy of the level_template.lvl file to help you create new levels.</p>
+	 <div style="display: flex;">
+	  <img src="Level_screenshot.png" style="height: 300px;">
+	  <img src="game_screenshot.png" style="height: 300px;">
+	</div>
 	<h2>Compiling and Using PlatE</h2>
 	<p>To compile PlatE, run the following command:</p>
 	<pre>gcc PlatE.c -o PlatE -lSDL2</pre>
