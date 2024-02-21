@@ -4,6 +4,8 @@
   <img src="game_screenshot.png" style="height: 300px;">
 </div>
 
+<a href="https://www.youtube.com/watch?v=JVbw02MKlgA">Last update: May 04, 2023</a>
+
 <p>PlatE is a game engine for creating platformer games.</p>
 <p>Disclaimer: PlatE was created on Linux (Ubuntu) and is expected to be used on a Linux distro (ideally a Debian based distro), and is not expected to work on other OS by default.</p>
 	<h2>Creating Levels</h2>
